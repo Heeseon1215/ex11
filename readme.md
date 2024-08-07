@@ -11,6 +11,7 @@ W3C의 규약을 기준으로, 웹 기술의 일관성과 호환성을 표준화
 Hyper Text Markup Language
 
 # html의 기본 구조
+     <html>
     	 <head>
     		 <meta charset = "utf-8">
     		 <title> 기본구조 </title>
@@ -18,7 +19,6 @@ Hyper Text Markup Language
     	 <body>
     	 </body>
     </html>
-
 
 **웹접근성과 웹표준을 준수하면 사용자에게 접근이 용이하며, 유지보수가 쉽고, 검색엔진 최적화(SE0)에 도움이 됨**
 
