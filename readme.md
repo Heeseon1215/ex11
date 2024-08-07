@@ -3,3 +3,14 @@
 
 # 웹접근성 #
 **인적, 환경적 요인에 제약없는 웹 정보 접근**
+
+# html의 기본 구조 #
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset - "utf-8">
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
